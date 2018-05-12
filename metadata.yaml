@@ -1,0 +1,39 @@
+_repo: Our-Little-Swedish-Cousin_43638
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgman, Lewis Jesse
+    - Bridgeman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+  - agent_name: Woodberry, R. C.
+    gutenberg_agent_id: '42340'
+    url: http://www.gutenberg.org/2009/agents/42340
+covers:
+- cover_type: archival
+  image_path: 43638-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coburn, Claire Martha
+    alias: Coburn, Claire M.
+    birthdate: 1876
+    gutenberg_agent_id: '42339'
+    url: http://www.gutenberg.org/2009/agents/42339
+description: ''
+gutenberg_issued: '2013-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Sweden -- Juvenile literature'
+- !lcc 'PZ'
+title: Our Little Swedish Cousin
+url: http://www.gutenberg.org/ebooks/43638
